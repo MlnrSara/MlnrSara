@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?text=Hello%20There!&type=venom&color=0:0B6623,100:1FAA59&fontColor=A7E8A1&height=200)
+![header](https://capsule-render.vercel.app/api?text=Hello%20There!&type=venom&color=0:0B6623,100:1FAA59&fontColor=A7E8A1&height=150)
 
 My name's Sara and I am very glad you stumbled upon my page. Here you will find projects that reveal my passions: reading, writing and (of course) programming. I'm getting ahead of myself, aren't I? Let me introduce myself
 
-### Get to know me:
+### Get to know me
 ```yaml
   located_in: Cluj, Romania
   education:
