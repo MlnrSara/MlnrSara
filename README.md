@@ -1,17 +1,25 @@
-![header](https://capsule-render.vercel.app/api?text=Hello There!&animation=twinkling&type=venom&color=234F1E&height=100&fontColor=FFFFFF)
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?text=Hello%20There!&type=venom&color=0:0B6623,100:1FAA59&fontColor=A7E8A1&height=200)
 
-<!--
-**MlnrSara/MlnrSara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name's Sara and I am very glad you stumbled upon my page. Here you will find projects that reveal my passions: reading, writing and (of course) programming. I'm getting ahead of myself, aren't I? Let me introduce myself:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Get to know me:
+```yaml
+  name: Molnar Sara
+  located_in: Cluj, Romania
+  education:
+    [
+      "Student in Computer Science",
+    ]
+  fields_of_interest:
+    [
+      "Signal Processing",
+      "Digital System Design",
+      "Embedded Computing",
+      "Web Development",
+    ]
+  technical_background:
+    [
+      "Intern - Web Development - Java",
+    ]
+```
+![footer](https://capsule-render.vercel.app/api?&type=waving&color=0:0B6623,100:1FAA59&height=100&section=footer)
