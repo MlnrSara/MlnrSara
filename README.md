@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hello There!&animation=twinkling&type=venom&color=234F1E&height=100&fontColor=FFFFFF"/>
-</p>
+![header](https://capsule-render.vercel.app/api?text=Hello There!&animation=twinkling&type=venom&color=234F1E&height=100&fontColor=FFFFFF)
 ## Hi there 👋
 
 <!--
