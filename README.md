@@ -38,10 +38,8 @@ My name's Sara and I am very glad you stumbled upon my page. Here you will find 
 </div>
 
 ### How you can get in touch with me
-<div>
-  <a href = "mailto:molnarsara30@gmail.com">
-    <img src='https://img.shields.io/badge/Email-0B6623?style=for-the-badge&logo=Gmail&logoColor=white'/>
-  </a>
-</div>
+[![Email](https://img.shields.io/badge/Email-0B6623?style=for-the-badge&logo=gmail&logoColor=white)](mailto:molnar.sara.viviana@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B6623?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sara-viviana-molnar/)
+[![Personal Website](https://img.shields.io/badge/Personal%20Website-0B6623?style=for-the-badge&logo=netlify&logoColor=white)](https://mlnrsara.netlify.app)
 
 ![footer](https://capsule-render.vercel.app/api?&type=waving&color=0:0B6623,100:1FAA59&height=100&section=footer)
