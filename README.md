@@ -29,7 +29,6 @@ My name's Sara and I am very glad you stumbled upon my page. Here you will find 
   <img src='./images/c.png' width=70 title='C'/>
   <img src='./images/c++.png' width=70 title='C++'/>
   <img src='./images/mysql.png' width=70 title='MySQL'/>
-  <img src='./images/vhdl.png' width=70 title='VHDL'/>
   <img src='./images/fpga.png' width=70 title='FGPA'/>
   <img src='./images/html.png' width=70 title='HTML'/>
   <img src='./images/css.png' width=70 title='CSS'/>
